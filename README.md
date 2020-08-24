@@ -1,2 +1,2 @@
 # Interpolation
-Trying out Interpolation alogirthms to get an overview of it.
+Trying out different Interpolation algorithms to get an overview of it.
